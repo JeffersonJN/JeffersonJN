@@ -18,9 +18,8 @@ Olá! 👋 Eu sou Jefferson, um apaixonado por programação web e desenvolvimen
 
 ## Projetos Destacados
 
-- 🌐 [Projeto A](https://github.com/seu-usuario/projeto-a): Breve descrição ou objetivo do projeto.
-- 🚀 [Projeto B](https://github.com/seu-usuario/projeto-b): Breve descrição ou objetivo do projeto.
-- ⭐ [Projeto C](https://github.com/seu-usuario/projeto-c): Breve descrição ou objetivo do projeto.
+- 🌐 [ProjetcSchedule](https://github.com/JeffersonJN/ProjetcSchedule): Agenda de contatos.
+- 🚀 [ProjetoPythonCurso](https://github.com/JeffersonJN/ProjetoPythonCurso): Todo o conteudo aprendido.
 
 ## Aprendendo Atualmente
 
